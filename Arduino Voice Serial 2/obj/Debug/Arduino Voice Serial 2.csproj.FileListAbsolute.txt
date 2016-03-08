@@ -1,0 +1,9 @@
+c:\users\akshat sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\bin\Debug\Arduino Voice Serial 2.exe.config
+c:\users\akshat sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\bin\Debug\Arduino Voice Serial 2.exe
+c:\users\akshat sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\bin\Debug\Arduino Voice Serial 2.pdb
+c:\users\akshat sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\obj\Debug\Arduino_Voice_Serial_2.Form1.resources
+c:\users\akshat sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\obj\Debug\Arduino_Voice_Serial_2.Properties.Resources.resources
+c:\users\akshat sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\obj\Debug\Arduino Voice Serial 2.csproj.GenerateResource.Cache
+c:\users\akshat sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\obj\Debug\Arduino Voice Serial 2.exe
+c:\users\akshat sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\obj\Debug\Arduino Voice Serial 2.pdb
+C:\Users\Akshat Sharma\documents\visual studio 2013\Projects\Arduino Voice Serial 2\Arduino Voice Serial 2\obj\Debug\Arduino Voice Serial 2.csprojResolveAssemblyReference.cache
